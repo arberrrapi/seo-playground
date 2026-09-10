@@ -1,6 +1,6 @@
 # SEO Playground — SEO and Local SEO Dashboard
 
-> **New:** New Query Fan-Out page (surfaces the hidden sub-queries AI models generate when answering prompts, with their AI search volume). New AI Visibility page (see how often a domain/brand is mentioned by LLMs, and who dominates a topic). Nearly every results table across the app is now sortable and has a "Copy as Markdown" button. See the [changelog](#changelog) below.
+> **New:** New Query Fan-Out page (surfaces the hidden sub-queries AI models generate when answering prompts, with their AI search volume). New AI Visibility page (see how often a domain/brand is mentioned by LLMs, and who dominates a topic). Nearly every results table across the app is now sortable and has a "Copy as Markdown" button. See the [changelog](#changelog) below. 
 
 > **Work in progress** — new DataForSEO endpoints are being added progressively.
 
